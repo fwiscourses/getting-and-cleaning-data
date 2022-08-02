@@ -6,23 +6,10 @@ The goal of the Project is:
     Analysis R Script
 
 Review Criteria
+
 Goal 	Item 	Link to Item
 Analysis R Script 	run_analysis.R 	R Script Link
 Tidy Data Set 	Clean Data Set 	Data Set Link
 Github Repo 	Repo 	Repo Link
 Cookbook 	CodeBook.md 	Repo Link
 README 	ReadingItNow 	Repo Link
-Contributors
-FirstName 	LastName 	Email
-Michael 	Galarnyk 	mgalarny@gmail.com
-Submit 	Pull Request 	youremailhere@gmail.com
-License
-
-Anyone may contribute after this assignment is turned in and graded.
-Blog Posts on the Specialization | John Hopkins Coursera
-
-Getting and Cleaning Data (JHU Coursera)
-
-R Programming (JHU Coursera)
-
-The Data Scientist’s Toolbox (JHU Coursera)
