@@ -7,8 +7,11 @@ The goal of the Project is:
 
 Review Criteria
 
-Goal 	Item 	Link to Item
 Analysis <- R Script <- run_analysis.R <-	R Script
+
 Github Repo <-	Repo <-	Repo 
+
 Cookbook <-	CodeBook.md <-	Repo 
+
 README <-	ReadingItNow <- Repo
+
