@@ -8,8 +8,7 @@ The goal of the Project is:
 Review Criteria
 
 Goal 	Item 	Link to Item
-Analysis R Script 	run_analysis.R 	R Script Link
-Tidy Data Set 	Clean Data Set 	Data Set Link
-Github Repo 	Repo 	Repo Link
-Cookbook 	CodeBook.md 	Repo Link
-README 	ReadingItNow 	Repo Link
+Analysis <- R Script <- run_analysis.R <-	R Script
+Github Repo <-	Repo <-	Repo 
+Cookbook <-	CodeBook.md <-	Repo 
+README <-	ReadingItNow <- Repo
